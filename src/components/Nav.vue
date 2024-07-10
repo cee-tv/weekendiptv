@@ -91,9 +91,9 @@ function setTitle(title) {
     display: flex;
     align-items: center;
     .tv-logo {
-      max-width: 5rem;
-      max-height: 10rem;
-      margin-right: 2rem;
+      max-width: 3rem;
+      max-height: 2rem;
+      margin-right: 15rem;
     }
   }
   a {
