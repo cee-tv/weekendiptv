@@ -9,7 +9,7 @@
           <span v-if="i.isTv" @click="setTitle(i.name)">
             <a
               :href="
-                '/#/?url=' 
+                '/#/?url=' +
                 i.url +
                 (i.caption || (i.meta && i.meta.caption)
                   ? '&caption=' + (i.caption || i.meta.caption)
