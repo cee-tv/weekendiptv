@@ -44,10 +44,10 @@ function setTitle(title) {
 <style lang="less" scoped>
 .nav {
   position: absolute;
-  top: 5rem;
-  left: 5rem;
+  top: 1rem;
+  left: 1rem;
 
-  z-index: 100;
+  z-index: 50;
   color: #fff;
   .nav-menu {
     width: 1.5rem;
