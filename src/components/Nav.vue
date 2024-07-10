@@ -44,8 +44,8 @@ function setTitle(title) {
 <style lang="less" scoped>
 .nav {
   position: absolute;
-  top: 1rem;
-  left: 1rem;
+  top: 5rem;
+  left: 5rem;
 
   z-index: 100;
   color: #fff;
