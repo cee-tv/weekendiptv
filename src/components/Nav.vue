@@ -8,8 +8,7 @@
         <li v-for="i in tvs" :key="i.name">
           <span v-if="i.isTv" @click="setTitle(i.name)">
             <a
-              :href="
-                '/#/?url=' +
+              
                 i.url +
                 (i.caption || (i.meta && i.meta.caption)
                   ? '&caption=' + (i.caption || i.meta.caption)
