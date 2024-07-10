@@ -61,6 +61,7 @@ function setTitle(title) {
   }
   .nav-list-warp {
     display: none;
+    margin-top: 5rem;
     background: rgba(0, 0, 0, 0.3);
     padding: 1rem 0 1rem 1rem;
     border-radius: 1rem;
