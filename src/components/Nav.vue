@@ -77,12 +77,11 @@ function setTitle(title) {
   .active {
     color: #fd6a30;
   }
-  .nav-list {
-    margin-top: 5;
+  .nav-list {    
     padding: 0;
     list-style: none;
 
-    max-height: calc(100vh - 4rem);
+    max-height: calc(90vh - 4rem);
     overflow: auto;
   }
   .sub-nav {
