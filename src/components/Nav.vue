@@ -47,7 +47,7 @@ function setTitle(title) {
   top: 1rem;
   left: 1rem;
 
-  z-index: 50;
+  z-index: 100;
   color: #fff;
   .nav-menu {
     width: 1.5rem;
@@ -91,8 +91,8 @@ function setTitle(title) {
     display: flex;
     align-items: center;
     .tv-logo {
-      max-width: 3rem;
-      max-height: 2rem;
+      max-width: 5rem;
+      max-height: 10rem;
       margin-right: 2rem;
     }
   }
