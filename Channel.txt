@@ -102,5 +102,6 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp_2.m3u8
 #EXTINF:-1 ,NBA LIVE
 https://livecdn-iptv001.rumsport.com/stream/762/index.m3u8
 #EXTINF:-1 ,TEST
+https://notflix-s1.13l.link/stream/notflix/kapamilya/stream.m3u8?uid=946161730&u=notflix&p=e536c47c941477c4cc6f36074a44fc226bfc5ffafd35b34e280da8df5a73701d
 #EXTINF:-1 ,DAILY ANIMATED
 
