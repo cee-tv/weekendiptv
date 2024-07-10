@@ -77,7 +77,7 @@ function setTitle(title) {
     color: #fd6a30;
   }
   .nav-list {
-    margin: 0;
+    margin-top: 5;
     padding: 0;
     list-style: none;
 
